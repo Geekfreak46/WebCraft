@@ -1,0 +1,82 @@
+body{
+ background-image:url("https://prog-8.com/images/html/advanced/top_en.png");
+ background-size: 100%;
+ font-family:sans-serif;
+}
+.header{
+ background-color:#003366;
+ height:100px;
+ color: #c5eefb;
+}
+
+.header a{
+ color: #c5eefb;
+}
+.header h1{
+ float: left;
+ font-size: 50px;
+}
+.header h2{
+ float: right;
+ padding: 20px;
+}
+.heading{
+    height: 150px;
+    color: white;
+    padding:20px
+}
+
+.heading p{
+    font-size: 70px;
+}
+
+.container{
+    height: 180px;
+    padding: 80px;
+    color: white;
+}
+
+p{
+    padding: 10px;
+    font-size: 40px;
+    color:white;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: white;
+}
+h3{
+    color: white;
+}
+.Screens .Input{
+    font-size: 45px;
+    width: 45%;
+    height: 250px;
+    background-color:#252525;
+    color: #fff;
+    text-align: right;
+    font-size: 36px;
+    border: none;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    float: left;
+}
+
+.Screens .Output{
+    font-size: 45px;
+    width: 45%;
+    height: 250px;
+    background-color:#252525;
+    color: #fff;
+    text-align: right;
+    font-size: 36px;
+    border: none;
+    padding: 20px 40px;
+    box-sizing: border-box;
+    float: right;
+}
+.end{
+    padding:380px 0 ;
+}
